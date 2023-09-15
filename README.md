@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunilguptasg
-- 👀 I’m interested in Flutter apps, specifically that work on the web
-- 🌱 I’m currently learning Flutter & Firebase
+- 👀 I’m interested in Flutter apps, specifically that work on the web, windows, MacOS, IOS, Android
+- 🌱 I’m currently building on Flutter & Supabase
 - 💞️ I’m looking to collaborate on live video (as used in a conference) with enhanced capabilities
 
 <!---
